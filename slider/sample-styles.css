@@ -5,7 +5,7 @@
  
 .slider-wrapper { 
     position: relative; 
-    background: #fff url(https://dl.dropboxusercontent.com/u/121442361/slider/loading.gif) no-repeat 50% 50%;
+    background: #fff url(https://notapanda.github.io/public/slider/loading.gif) no-repeat 50% 50%;
     -moz-box-shadow: 0 0 3px rgba(0,0,0,0.4);
     -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.4);
     box-shadow: 0 0 3px rgba(0,0,0,0.4);
@@ -45,7 +45,7 @@
     display: block;
     width: 26px;
     height: 37px;
-    background: url(https://dl.dropboxusercontent.com/u/121442361/slider/arrows.png) no-repeat 0 0;
+    background: url(https://notapanda.github.io/public/slider/arrows.png) no-repeat 0 0;
     text-indent: -9999px;
 }
 #slider-direction-nav .lean-slider-next {
@@ -71,7 +71,7 @@
     display: inline-block;
     width: 14px;
     height: 14px;
-    background: url(https://dl.dropboxusercontent.com/u/121442361/slider/bullets.png) no-repeat 0 0;
+    background: url(https://notapanda.github.io/public/slider/bullets.png) no-repeat 0 0;
     text-indent: -9999px;
     margin: 0 3px;
     -webkit-transition: none;
